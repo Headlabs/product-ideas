@@ -1,6 +1,7 @@
 # product-ideas
 a place to store product ideas.
 
+- [ ] Write out a 50+ page best practices guide as ebook to sell. 
 - [ ] A UI/UX testing service for VR developers to receive feedback on applications they are building.
 - [ ] A machine learning platform that learns about user interactions and makes recommendations for businesses and their websites.  
 - [ ] A online video series on design patterns for UI and UX in VR.  
