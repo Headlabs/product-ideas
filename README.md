@@ -1,6 +1,7 @@
 # product-ideas
 a place to store product ideas.
 
+- [ ] A UI/UX testing service for VR developers to receive feedback on applications they are building.
 - [ ] A machine learning platform that learns about user interactions and makes recommendations for businesses and their websites.  
 - [ ] A online video series on design patterns for UI and UX in VR.  
 - [ ] Sell blocks of hours for product development advice to entrepeneurs.   
