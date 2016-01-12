@@ -10,3 +10,4 @@ a place to store product ideas.
 - [ ] Write blog posts about design and development, turn the top 25 into a ebook that we can sell  
 - [ ] Inventory software for MJ dispensaries  
 - [ ] Inventory software for MJ growers  
+- [ ] A QA reporting tool we can use in VR when testing VR applications.
