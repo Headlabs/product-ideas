@@ -12,3 +12,4 @@ a place to store product ideas.
 - [ ] Inventory software for MJ growers  
 - [ ] A QA reporting tool we can use in VR when testing VR applications.
 - [ ] A mobile application / site where you can upload pictures / a VR gallery for art.
+- [ ] A music application designed to product synthetic sounds on-stage.
