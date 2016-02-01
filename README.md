@@ -15,3 +15,4 @@ a place to store product ideas.
 - [ ] A music application designed to product synthetic sounds on-stage.
 - [ ] A VR collaboration software for people who work remotely to collaborate with others.
 - [ ] A documentary video series to share stories about different kinds of people, with other kinds of people to spread empathy.
+- [ ] A rating system for games to use based on physical limitations.
