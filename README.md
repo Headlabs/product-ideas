@@ -16,3 +16,6 @@ a place to store product ideas.
 - [ ] A VR collaboration software for people who work remotely to collaborate with others.
 - [ ] A documentary video series to share stories about different kinds of people, with other kinds of people to spread empathy.
 - [ ] A rating system for games to use based on physical limitations.
+- [ ] An application that will help people meditate, with controlled breathing and ambient sounds. Possibly include areas of sensory deprivation.
+- [ ] An application that allows people to talk to AI therapists, and work through their problems in the privacy of their own home.
+- [ ] An application that will allow people to experience areas in their life that they're afraid of, similar to exposure therapy, to then be able to combat those fears in the real world.
